@@ -1,2 +1,0 @@
-# serverTest
-testing openshift
